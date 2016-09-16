@@ -1,0 +1,7 @@
+*
+!.gitignore
+!updatepackage.sh
+!.myprofile.sh
+!.vimrc
+!.vim/
+!.zshrc
